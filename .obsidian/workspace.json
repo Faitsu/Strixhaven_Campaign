@@ -93,22 +93,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "3fa41ea166e50c7e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81fbf9dec06ef325",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Euros Delphi.md",
+                "file": "NPCs/Students/First Years/Autolycus Anticlea Atlantiades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Euros Delphi"
+              "title": "Backlinks for Autolycus Anticlea Atlantiades"
             }
           },
           {
@@ -237,13 +221,23 @@
               "icon": "lucide-list",
               "title": "Outline of Euros Delphi"
             }
+          },
+          {
+            "id": "2a951e5ce0e9cacb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,7 +247,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1d4e5c5304a22aa1",
