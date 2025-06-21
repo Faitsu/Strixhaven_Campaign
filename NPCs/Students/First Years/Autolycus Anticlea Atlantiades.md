@@ -9,7 +9,7 @@ Year: First Year
 Age: 19
 Race: Half-Elf
 School: N/A
-Class: Wizard
+Class: Wizard - Blade Singer
 OA: No
 Personality: Bombastic, Friendly, Selfless
 Likes: Adventure, Fantasy Novels, Social Interaction

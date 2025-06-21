@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Students/First Years/Autolycus Anticlea Atlantiades.md",
+                "file": "NPCs/Students/Second Years/Theodoros Delphi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autolycus Anticlea Atlantiades"
+              "title": "Theodoros Delphi"
             }
           }
         ],
@@ -253,8 +253,9 @@
   },
   "active": "1d4e5c5304a22aa1",
   "lastOpenFiles": [
-    "Untitled.md",
     "NPCs/Students/First Years/Autolycus Anticlea Atlantiades.md",
+    "NPCs/Students/Second Years/Theodoros Delphi.md",
+    "Untitled.md",
     "NPCs/Euros Delphi.md",
     "NPCs/Students/First Years/1 Peter 2-22.md",
     "NPCs/Students/First Years/Urania Cyprus.md",
@@ -271,7 +272,6 @@
     "Players",
     "NPCs",
     "NPCs/Students/Second Years/Avery Vale.md",
-    "NPCs/Students/Second Years/Theodoros Delphi.md",
     "Welcome.md"
   ]
 }
