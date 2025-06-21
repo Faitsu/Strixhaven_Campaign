@@ -7,6 +7,7 @@ aliases:
   - Silver Haired Gorilla
 ---
 Year: Second Year
+Original Realm: Arcavios
 Age: 20
 Race: Aasimar
 School: Silverquill
@@ -38,9 +39,8 @@ Due to the uncertainty he feels in the teachings of his father and doesn't have 
 Theo has mana issues that used to make him violent and lust for power, but papa Euros tried to get Theo to behave and use his lust for power for good causes. However, due to Euros seemingly building Theo's world views off deceit, Theo has become super weary of Euros and is trying to figure out wether his father is truly an asshole that should be put down or if Euros has just been looking out for Theo and has been hiding info from Theo for some other reason. His distrust of Euros has also caused him to become more unstable and he is slowly turning colder to people as a result of a combo of his mana issues and the fact that he has no one around that he truly trusts anymore. 
 *(Fyi people's personalities are usually not this shaped by mana but Theo is a special case and he's supposed to introduce the concept of mana to the players and be an example of what mana is outside being an energy source for magic to the party, as mana plays a larger role in the story later on) 
 
-## His Whole Story 
-
-Theodoros was born to Euros and Melepone Delphi and 
+## His Whole Story
+Theodoros was born to Euros and Melepone Delphi on the realm of Arcavios. One faithful day, while Melepone took her child to her workplace of Strixhaven 
 # How He Plays  
 In his current state, he sees people as tools to be used, and emotionally pushes people away. Due to his upbringing, he knows that there are bounds to what he can do within society (ie: killing babies for power or for his goals would upset the large majority of society and would cause more issues for him in the long run), but he only follows societal rules when the cost outweighs the benefits. When Theo is stable, he is not impulsive and tends to calculate solutions that would benefit him for the long term, but if he uses his ability too much or if he loses his patience (which takes a lot), he becomes unstable and will impulsively want to obliterate whatever or whomever triggered him to assert his dominance and instill fear into those around him to discourage other people from going against him (this also triggers him to activate his necrotic shroud). If he is on a mission and people do things that will potentially become an obstacle for completing his task, his first instinct is to intimidate people to put them back in line to what they should be doing. If the actions they take do not obstruct the objective of their mission, he will not care.
 

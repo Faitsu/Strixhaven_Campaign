@@ -6,6 +6,7 @@ aliases:
   - Mr.Smiley
 ---
 Year: First Year
+Original Realm: Eilnaat, Iridesca
 Age: 19
 Race: Half-Elf
 School: N/A
