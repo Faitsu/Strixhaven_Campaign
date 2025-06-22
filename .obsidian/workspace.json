@@ -281,6 +281,8 @@
   },
   "active": "0263a95d145983b0",
   "lastOpenFiles": [
+    "NPCs/Faculty/Melpomene Delphi.md",
+    "NPCs/Students/First Years/First Years.md",
     "NPCs/Faculty/Alyx Bellbottoms.md",
     "NPCs/Faculty/Lyndis Atlantiades.md",
     "NPCs/Faculty/Faculty.md",
@@ -290,7 +292,6 @@
     "NPCs/Students/Second Years/Rubina Larkingdale.md",
     "NPCs/Students/Second Years/Morgan Eldin.md",
     "NPCs/Students/Second Years/Ree.md",
-    "NPCs/Students/First Years/First Years.md",
     "NPCs/Students/First Years/Bjornstein Leatson.md",
     "NPCs/Students/First Years/James Montana.md",
     "NPCs/Students/First Years/Takeshi Oda.md",
@@ -316,7 +317,6 @@
     "Strixhaven",
     "Arcavios",
     "Players",
-    "NPCs",
-    "NPCs/Students/Second Years/Avery Vale.md"
+    "NPCs"
   ]
 }
