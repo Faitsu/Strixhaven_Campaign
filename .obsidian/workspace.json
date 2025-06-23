@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Faculty/Alyx Bellbottoms.md",
+                "file": "NPCs/Students/Second Years/Second Years.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alyx Bellbottoms"
+              "title": "Second Years"
             }
           }
         ],
@@ -279,11 +279,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0263a95d145983b0",
+  "active": "113d754559713eee",
   "lastOpenFiles": [
-    "NPCs/Faculty/Melpomene Delphi.md",
     "NPCs/Students/First Years/First Years.md",
     "NPCs/Faculty/Alyx Bellbottoms.md",
+    "NPCs/Faculty/Melpomene Delphi.md",
     "NPCs/Faculty/Lyndis Atlantiades.md",
     "NPCs/Faculty/Faculty.md",
     "NPCs/Faculty/Bella Grimoire.md",
