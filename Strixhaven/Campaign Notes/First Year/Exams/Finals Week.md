@@ -35,7 +35,8 @@ Magical Physiologies:
 
 Arcano-botany for Beginner:  Roll Survival & Acrobatics  
 
-- The final has students go on a hands on trip to the bogs of Witherbloom, near the borders of the campus and the detention bog. Here they will 
+- The final has students go on a hands on trip to the bogs of Witherbloom, near the borders of the campus and the detention bog. The professor has brought the students to an area that grows different type of trees that are native to the detention bog. The students must:
+	- Locate a specific type of tree, one that was discussed in class (The Ruby Mangrove), extract its syrup, and then lure in a particular type of 
 
 Basic Magical Auras: Roll Arcana & Sleight of Hand  
 - 

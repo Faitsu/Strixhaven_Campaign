@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strixhaven/Campaign Notes/First Year/Untitled.md",
+                "file": "Strixhaven/Campaign Notes/First Year/Exams/Finals Week.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Finals Week"
             }
           }
         ],
@@ -283,8 +283,9 @@
   },
   "active": "113d754559713eee",
   "lastOpenFiles": [
-    "Strixhaven/Campaign Notes/First Year/Finals Week.md",
-    "Strixhaven/Campaign Notes/First Year/Untitled.md",
+    "Strixhaven/Campaign Notes/First Year/Exams/Exam Results.md",
+    "Strixhaven/Campaign Notes/First Year/Exams",
+    "Strixhaven/Campaign Notes/First Year/Exams/Finals Week.md",
     "NPCs/Students/Second Years/Aurora Luna Wynterstarr.md",
     "Strixhaven/Campaign Notes",
     "Strixhaven/Campaign Notes/First Year",
@@ -310,7 +311,6 @@
     "NPCs/Students/First Years/Vorris Mikau.md",
     "NPCs/Students/First Years/Raza Sparks.md",
     "NPCs/Students/First Years/Thalia Cyprus.md",
-    "NPCs/Students/First Years/Clio Cyprus.md",
     "Untitled_Artwork.webp",
     "NPCs/Other",
     "NPCs/Oriq",
@@ -318,7 +318,6 @@
     "NPCs/Students/Second Years",
     "NPCs/Students/First Years",
     "NPCs/Students",
-    "Strixhaven",
-    "Arcavios"
+    "Strixhaven"
   ]
 }
