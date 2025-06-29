@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Students/Second Years/Second Years.md",
+                "file": "NPCs/Students/Second Years/Theodoros Delphi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Second Years"
+              "title": "Theodoros Delphi"
             }
           }
         ],
@@ -265,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,6 +282,7 @@
   },
   "active": "113d754559713eee",
   "lastOpenFiles": [
+    "NPCs/Students/Second Years/Second Years.md",
     "NPCs/Students/First Years/First Years.md",
     "NPCs/Faculty/Alyx Bellbottoms.md",
     "NPCs/Faculty/Melpomene Delphi.md",
@@ -288,7 +290,6 @@
     "NPCs/Faculty/Faculty.md",
     "NPCs/Faculty/Bella Grimoire.md",
     "NPCs/Students/Second Years/Xallian Yargol.md",
-    "NPCs/Students/Second Years/Second Years.md",
     "NPCs/Students/Second Years/Rubina Larkingdale.md",
     "NPCs/Students/Second Years/Morgan Eldin.md",
     "NPCs/Students/Second Years/Ree.md",
