@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Students/Second Years/Aurora Luna Wynterstarr.md",
+                "file": "Strixhaven/Campaign Notes/First Year/Finals Week.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aurora Luna Wynterstarr"
+              "title": "Finals Week"
             }
           }
         ],
@@ -282,8 +282,11 @@
   },
   "active": "113d754559713eee",
   "lastOpenFiles": [
-    "NPCs/Students/First Years/Untitled.md",
     "NPCs/Students/Second Years/Aurora Luna Wynterstarr.md",
+    "Strixhaven/Campaign Notes/First Year/Finals Week.md",
+    "Strixhaven/Campaign Notes",
+    "Strixhaven/Campaign Notes/First Year",
+    "NPCs/Students/First Years/Untitled.md",
     "NPCs/Students/Second Years/Quentillius Antiphiun Melentor III.md",
     "NPCs/Students/Second Years/Theodoros Delphi.md",
     "NPCs/Students/Second Years/Second Years.md",
@@ -307,7 +310,6 @@
     "NPCs/Students/First Years/Thalia Cyprus.md",
     "NPCs/Students/First Years/Clio Cyprus.md",
     "NPCs/Students/First Years/Autolycus Anticlea Atlantiades.md",
-    "NPCs/Faculty/Euros Delphi.md",
     "Untitled_Artwork.webp",
     "NPCs/Other",
     "NPCs/Oriq",
@@ -316,8 +318,6 @@
     "NPCs/Students/First Years",
     "NPCs/Students",
     "Strixhaven",
-    "Arcavios",
-    "Players",
-    "NPCs"
+    "Arcavios"
   ]
 }
