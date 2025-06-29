@@ -38,15 +38,27 @@ Arcano-botany for Beginner:  Roll Survival & Acrobatics
 	- Locate a specific type of tree, one that was discussed in class (The Ruby Mangrove), extract its syrup, and then pluck the feather from an aquatic bird that looks like a duck to make a potion of [Duck Foot](https://www.dndbeyond.com/magic-items/9853567-duck-foot)
 		- When you drink this brackish-smelling potion, your hands and feet begin to tingle. Within seconds, they turn a bright orange and become webbed like a mallard’s feet. For the next hour, you gain a swimming speed of 40 feet and are able to make a very convincing quacking sound.
 
-Basic Magical Auras: Roll Arcana & Sleight of Hand  
-- You are tested once again at the somatic and verbal components of a certain magical aura spell and its best or worst use cases- 
+Basic Magical Auras: Roll History & Sleight of Hand  
+- You are tested once again at the somatic and verbal components of a certain magical aura spell and its best or worst use cases
+	- Reward for passing your final - a level 1 spell scroll for one of the following spells:
+		- Sanctuary
+		- Detect Magic
+		- Detect Good or Evil
+		- Alarm
 
 Beginning Computational Magics: Roll Arcana & Sleight of Hand  
+- You are tested on the complex maths for creating basic fractal objects
+	- Reward:
+		- 
 
 Beginning Inkomancy: Roll Insight and Intimidation  
+- The ability to summon an inkling from find familiar up to a use of 3 times
 
 History of Magic and Art: Roll Religion and Persuasion
+- Advantage on history checks that can be used on a topic of your choice
 
 Introduction to Archaemancy: Roll Investigation & Athletics  
+- An uncommon magic item from the following list
+	- 
 
 Magical Physiologies: Investigation and Persuasion
