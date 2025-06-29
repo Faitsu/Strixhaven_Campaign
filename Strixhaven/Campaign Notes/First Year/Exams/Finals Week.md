@@ -1,4 +1,3 @@
-  
 
 | Midterm Season 1             | Midterm Season 2              | Final Exam Season             |
 | ---------------------------- | ----------------------------- | ----------------------------- |
@@ -36,10 +35,11 @@ Magical Physiologies:
 Arcano-botany for Beginner:  Roll Survival & Acrobatics  
 
 - The final has students go on a hands on trip to the bogs of Witherbloom, near the borders of the campus and the detention bog. The professor has brought the students to an area that grows different type of trees that are native to the detention bog. The students must:
-	- Locate a specific type of tree, one that was discussed in class (The Ruby Mangrove), extract its syrup, and then lure in a particular type of 
+	- Locate a specific type of tree, one that was discussed in class (The Ruby Mangrove), extract its syrup, and then pluck the feather from an aquatic bird that looks like a duck to make a potion of [Duck Foot](https://www.dndbeyond.com/magic-items/9853567-duck-foot)
+		- When you drink this brackish-smelling potion, your hands and feet begin to tingle. Within seconds, they turn a bright orange and become webbed like a mallard’s feet. For the next hour, you gain a swimming speed of 40 feet and are able to make a very convincing quacking sound.
 
 Basic Magical Auras: Roll Arcana & Sleight of Hand  
-- 
+- You are tested once again at the somatic and verbal components of a certain magical aura spell and its best or worst use cases- 
 
 Beginning Computational Magics: Roll Arcana & Sleight of Hand  
 
