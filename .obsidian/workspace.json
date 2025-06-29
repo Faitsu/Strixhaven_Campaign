@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strixhaven/Campaign Notes/First Year/Finals Week.md",
+                "file": "Strixhaven/Campaign Notes/First Year/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finals Week"
+              "title": "Untitled"
             }
           }
         ],
@@ -277,13 +277,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "113d754559713eee",
   "lastOpenFiles": [
-    "NPCs/Students/Second Years/Aurora Luna Wynterstarr.md",
     "Strixhaven/Campaign Notes/First Year/Finals Week.md",
+    "Strixhaven/Campaign Notes/First Year/Untitled.md",
+    "NPCs/Students/Second Years/Aurora Luna Wynterstarr.md",
     "Strixhaven/Campaign Notes",
     "Strixhaven/Campaign Notes/First Year",
     "NPCs/Students/First Years/Untitled.md",
@@ -309,7 +311,6 @@
     "NPCs/Students/First Years/Raza Sparks.md",
     "NPCs/Students/First Years/Thalia Cyprus.md",
     "NPCs/Students/First Years/Clio Cyprus.md",
-    "NPCs/Students/First Years/Autolycus Anticlea Atlantiades.md",
     "Untitled_Artwork.webp",
     "NPCs/Other",
     "NPCs/Oriq",
