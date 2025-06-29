@@ -47,12 +47,12 @@ Basic Magical Auras: Roll History & Sleight of Hand
 		- Alarm
 
 Beginning Computational Magics: Roll Arcana & Sleight of Hand  
-- You are tested on the complex maths for creating basic fractal objects
+- You are tested on the complex math for creating basic fractal objects
 	- Reward:
 		- 
 
 Beginning Inkomancy: Roll Insight and Intimidation  
-- The ability to summon an inkling from find familiar up to a use of 3 times
+- 
 
 History of Magic and Art: Roll Religion and Persuasion
 - Advantage on history checks that can be used on a topic of your choice
